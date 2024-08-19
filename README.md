@@ -29,7 +29,8 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT
-![alt text](OP-1.png)
+![OP](https://github.com/user-attachments/assets/f87d118c-65ac-4716-b0d6-f1c9e688ff6a)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
